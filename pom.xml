@@ -65,11 +65,11 @@
          <version>2.2</version>
          <configuration>
          <server>tomcat-development-server</server>
-         <url>http://23.21.241.40:8080/manager/text</url>
+         <url>3.95.2.165:8080/manager/text</url>
          <warFile>target\hello.war</warFile>
          <path>/hello</path>
          <username>admin</username>
-        <password>cloud@123</password>
+        <password>Katedawn2</password>
          </configuration>
      </plugin>  
 
